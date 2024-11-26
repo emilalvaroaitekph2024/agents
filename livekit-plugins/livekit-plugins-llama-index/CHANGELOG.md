@@ -1,5 +1,11 @@
 # livekit-plugins-llama-index
 
+## 0.2.1
+
+### Patch Changes
+
+- feat: llm retry & llm.FallbackAdapter - [#1132](https://github.com/livekit/agents/pull/1132) ([@theomonnom](https://github.com/theomonnom))
+
 ## 0.2.0
 
 ### Minor Changes

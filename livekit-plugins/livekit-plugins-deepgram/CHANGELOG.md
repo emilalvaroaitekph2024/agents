@@ -1,5 +1,11 @@
 # livekit-plugins-deepgram
 
+## 0.6.12
+
+### Patch Changes
+
+- feat: stt retry & stt.FallbackAdapter - [#1114](https://github.com/livekit/agents/pull/1114) ([@theomonnom](https://github.com/theomonnom))
+
 ## 0.6.11
 
 ### Patch Changes
